@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-0": {
+            "GSoares\\RatchetChat": "src"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "0.3.*"
+    }
+}
